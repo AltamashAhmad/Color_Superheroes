@@ -18,7 +18,8 @@ Make the Canvas App Functional
 Please Note
 A testing utility is added to the project, on performing the iterations correctly the specifications will be passed.
 
-SVG of Iron man
+SVG of Iron Man
+
  <!-- <svg viewBox="0 0 738 462" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="738" height="462" fill="white" id="background" />
           <path

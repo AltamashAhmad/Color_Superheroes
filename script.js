@@ -1,4 +1,4 @@
-/* Iteration 4: Make the Everything Work */
+/* Iteration 4: Make the Everything Work using js*/
 const buttonBackground = document.getElementById("button-background");
 const imgBackground = document.getElementById("background");
 
